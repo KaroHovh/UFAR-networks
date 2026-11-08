@@ -1,0 +1,12 @@
+# Local build products and secrets
+build/
+*.o
+*.a
+*.so
+*.log
+gateway.psk
+*.psk
+*.key
+*.pem
+.env
+.DS_Store
